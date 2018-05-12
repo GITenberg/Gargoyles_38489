@@ -1,0 +1,32 @@
+_repo: Gargoyles_38489
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hecht, Ben
+    birthdate: 1894
+    deathdate: 1964
+    gutenberg_agent_id: '2616'
+    url: http://www.gutenberg.org/2009/agents/2616
+    wikipedia: http://en.wikipedia.org/wiki/Ben_Hecht
+description: If cinematic stories with well-drawn characters are your preference when
+  it comes to fiction, check out Gargoyles by Ben Hecht, who was one of the foremost
+  screenwriters during Hollywood's Golden Age. Hecht wrote or co-wrote the scripts
+  for a number of classic films, including Some Like It Hot, Gone with the Wind, Gunga
+  Din, and Wuthering Heights, and even collaborated on Marilyn Monroe's autobiography
+  My Story as a ghostwriter.
+gutenberg_issued: '2012-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38489'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: Gargoyles
+url: http://www.gutenberg.org/ebooks/38489
